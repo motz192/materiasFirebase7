@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "710826689252",
+    "firebase_url": "https://materias-t7-default-rtdb.firebaseio.com",
+    "project_id": "materias-t7",
+    "storage_bucket": "materias-t7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710826689252:android:2d361b50f2e3b6f1e9e2f1",
+        "android_client_info": {
+          "package_name": "com.example.firebasematerias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "710826689252-tqd7hkne07t3k8es56our5hrdosfdb95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV_nArgzH3HuwY8fnN3twVXV8GpdIgXt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "710826689252-tqd7hkne07t3k8es56our5hrdosfdb95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

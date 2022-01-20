@@ -1,0 +1,13 @@
+<resources>
+    <string-array name = "materias">
+        <item>Fundamentos de programacion</item>
+        <item>Matemáticas discretas</item>
+        <item>Taller de administracion</item>
+        <item>Fund. Investigacion</item>
+        <item>Sistemas Operativos</item>
+        <item>Fund. Base de datos</item>
+        <item>Calculo Diferencial</item>
+        <item>POO</item>
+    </string-array>
+    <string name="app_name">firebaseMaterias</string>
+</resources>
